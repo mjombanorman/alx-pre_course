@@ -1,2 +1,3 @@
-My first readme
-Second commit
+## ALX PRE COURSE
+* My first README
+* Updated from github
